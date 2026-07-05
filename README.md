@@ -83,7 +83,7 @@ Building strong foundations in Software Development, Object-Oriented Programming
 
 | Project | Description | Tech Stack |
 |---|---|---|
-🚗 Car Rental Management SystemWeb platform to manage vehicles, customers, bookings, payments & reporting, with secure login and MySQL integration |`PHP` `MySQL` `HTML5` `CSS3` `JavaScript`
+|🚗 Car Rental Management System| Web platform to manage vehicles, customers, bookings, payments & reporting, with secure login and MySQL integration |`PHP` `MySQL` `HTML5` `CSS3` `JavaScript`|
 | 🌍 **GETIS — Global Tourism & Info System** | Web platform for exploring destinations and travel info, with database-driven content and responsive UI | `PHP` `MySQL` `HTML5` `CSS3` `JavaScript` |
 | 🤖 **Meenu AI Assistant** | AI assistant that understands natural language, answers queries, and assists with everyday tasks | `Python` `OpenAI API` `HTML` `CSS` `JavaScript` |
 
