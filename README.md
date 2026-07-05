@@ -16,7 +16,7 @@
 name:      Muhammad Huzaifa
 username:  huzaifa-kureshi
 location:  Karachi, Pakistan 🇵🇰
-degree:    BS Software Engineering — Bahria University (2nd Semester)
+degree:    BS Software Engineering — Bahria University (3rd Semester)
 
 focus:
   - Python & Object-Oriented Programming
@@ -74,7 +74,7 @@ Building strong foundations in Software Development, Object-Oriented Programming
 **Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
 ---
@@ -83,8 +83,8 @@ Building strong foundations in Software Development, Object-Oriented Programming
 
 | Project | Description | Tech Stack |
 |---|---|---|
-|🚗 Car Rental Management System| Web platform to manage vehicles, customers, bookings, payments & reporting, with secure login and MySQL integration |`PHP` `MySQL` `HTML5` `CSS3` `JavaScript`|
-| 🌍 **GETIS — Global Tourism & Info System** | Web platform for exploring destinations and travel info, with database-driven content and responsive UI | `PHP` `MySQL` `HTML5` `CSS3` `JavaScript` |
+|🚗 **Car Rental Management System**| Web platform to manage vehicles, customers, bookings, payments & reporting, with secure login and MySQL integration |`PHP` `MySQL` `HTML5` `CSS3` `JavaScript`|
+| 🌍 **GETIS — Global Tourism & Info System** | Web platform for exploring destinations and travel info, with database-driven content and responsive UI | `C#` `MySQL` `HTML5` `CSS3` `JavaScript` |
 | 🤖 **Meenu AI Assistant** | AI assistant that understands natural language, answers queries, and assists with everyday tasks | `Python` `OpenAI API` `HTML` `CSS` `JavaScript` |
 
 > 🔗 Repository links coming soon — more projects currently in development.
@@ -95,9 +95,6 @@ Building strong foundations in Software Development, Object-Oriented Programming
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=huzaifa-kureshi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa-kureshi&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <img src="https://streak-stats.demolab.com?user=huzaifa-kureshi&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa-kureshi&theme=tokyo-night&hide_border=true" width="100%"/>
@@ -105,7 +102,6 @@ Building strong foundations in Software Development, Object-Oriented Programming
 <img src="https://github-profile-trophy.vercel.app/?username=huzaifa-kureshi&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
-
 ---
 
 ## 🏅 Certifications
