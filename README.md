@@ -99,9 +99,9 @@ Building strong foundations in Software Development, Object-Oriented Programming
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa-kureshi&theme=tokyo-night&hide_border=true" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=huzaifa-kureshi&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
+
 ---
 
 ## 🏅 Certifications
