@@ -87,8 +87,6 @@ Building strong foundations in Software Development, Object-Oriented Programming
 | 🌍 **GETIS — Global Tourism & Info System** | Web platform for exploring destinations and travel info, with database-driven content and responsive UI | `C#` `MySQL` `HTML5` `CSS3` `JavaScript` |
 | 🤖 **Meenu AI Assistant** | AI assistant that understands natural language, answers queries, and assists with everyday tasks | `Python` `OpenAI API` `HTML` `CSS` `JavaScript` |
 
-> 🔗 Repository links coming soon — more projects currently in development.
-
 ---
 
 ## 📊 GitHub Analytics
