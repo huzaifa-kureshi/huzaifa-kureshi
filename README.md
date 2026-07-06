@@ -83,7 +83,7 @@ Building strong foundations in Software Development, Object-Oriented Programming
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🚗 **Car Rental Management System**         | Web platform to manage vehicles, customers, bookings, payments & reporting, with secure login | `C#` `ASP.NET Core` `EF Core` `JavaScript` |
+| 🚗 **Car Rental Management System**         | Web platform to manage vehicles, customers, bookings, payments & reporting | `C#` `ASP.NET Core` `EF Core` `JavaScript` |
 | 🌍 **GETIS — Global Tourism & Info System** | Full-stack tourism package booking system with public booking site + admin dashboard & CSV export | `C#` `ASP.NET Core` `EF Core` `SQLite` `JavaScript` |
 | 🤖 **Meenu AI Assistant** | AI assistant that understands natural language, answers queries, and assists with everyday tasks | `Python` `OpenAI API` `HTML` `CSS` `JavaScript` |
 
