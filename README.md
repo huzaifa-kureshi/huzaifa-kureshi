@@ -26,7 +26,6 @@ focus:
 
 currently:
   - Strengthening Python & OOP fundamentals
-  - Learning Django & FastAPI
   - Building real-world software projects
   - Exploring AI-powered applications
 
@@ -49,19 +48,19 @@ Building strong foundations in Software Development, Object-Oriented Programming
 **Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cs,php,js" />
+<img src="https://skillicons.dev/icons?i=python,java,cs,js" />
 </p>
 
 **Frontend**
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
 </p>
 
 **Backend**
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,django,fastapi" />
+<img src="https://skillicons.dev/icons?i=python,cs,fastapi" />
 </p>
 
 **Databases**
@@ -108,12 +107,6 @@ Building strong foundations in Software Development, Object-Oriented Programming
 - 📊 **Data Science & Analytics** — HP LIFE · Jul 2026 → [View Credential](https://www.life-global.org/certificate/da040f6b-2525-40ee-adc5-62e1447e924e)
 - 🚀 **AI for Beginners** — HP LIFE · Jun 2026 → [View Credential](https://www.life-global.org/certificate/b4d45a81-4d50-4dc3-ae09-376a407e50fd)
 
-<p>
-<img src="https://img.shields.io/badge/IBM-AI%20Fundamentals-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/HP%20LIFE-Data%20Science-0096D6?style=for-the-badge&logo=hp&logoColor=white"/>
-<img src="https://img.shields.io/badge/HP%20LIFE-AI%20for%20Beginners-0096D6?style=for-the-badge&logo=hp&logoColor=white"/>
-</p>
-
 ---
 
 ## 🎯 2026 Goals
@@ -121,7 +114,7 @@ Building strong foundations in Software Development, Object-Oriented Programming
 - ✅ Strengthen Python Programming
 - ✅ Master Object-Oriented Programming
 - 🔄 Learn Django & FastAPI
-- 🔄 Build 10+ Professional Projects
+- 🔄 Build 5+ Professional Projects
 - 🔄 Contribute to Open Source
 - 🔄 Master Data Structures & Algorithms
 
