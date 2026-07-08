@@ -84,7 +84,7 @@ Building strong foundations in Software Development, Object-Oriented Programming
 |---|---|---|
 | 🚗 **Car Rental Management System**         | Web platform to manage vehicles, customers, bookings, payments & reporting | `C#` `ASP.NET Core` `EF Core` `JavaScript` |
 | 🌍 **GETIS — Global Tourism & Info System** | Full-stack tourism package booking system with public booking site + admin dashboard & CSV export | `C#` `ASP.NET Core` `EF Core` `SQLite` `JavaScript` |
-| 🤖 **Meenu AI Assistant** | AI assistant that understands natural language, answers queries, and assists with everyday tasks | `Python` `OpenAI API` `HTML` `CSS` `JavaScript` |
+| 🤖 **Meenu AI Assistant** | Java desktop AI assistant with on-device face-login (OpenCV) and hybrid offline/online chat — instant local answers plus real AI conversation via a live LLM | `Java` `Swing` `OpenCV` `Groq API` |
 
 ---
 
