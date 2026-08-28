@@ -90,7 +90,8 @@ Java desktop AI assistant with on-device face-login (OpenCV) and a hybrid offlin
 ## 📊 GitHub Analytics
 
 <div align="center">
-
+<img src="https://github-readme-stats.vercel.app/api?username=huzaifa-kureshi&show_icons=true&theme=gruvbox&hide_border=true" height="165"/>
+  
 ![](https://github-readme-stats.shion.dev/api?username=huzaifa-kureshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=huzaifa-kureshi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=huzaifa-kureshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
